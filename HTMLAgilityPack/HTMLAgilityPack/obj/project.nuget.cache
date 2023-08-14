@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8c/S69qxnfsGYU2NMt1mvCcg36LyMaC9fSI3Rjk6S9oFUNR12lrLgZvs3NizWVQdkLZ0j2o/7nOBQmGabLIyA==",
+  "success": true,
+  "projectFilePath": "D:\\Test\\HTMLAgilityPack\\HTMLAgilityPack\\HTMLAgilityPackProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanht\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512"
+  ],
+  "logs": []
+}

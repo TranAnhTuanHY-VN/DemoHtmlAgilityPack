@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8b62Be8eLU/pEMDBzYpfRgJXdQ1PsSmMerF6SAyFjqzP1W22s6+IWR1/Kghds/MnDghi0UzVGcV15sW3rWB1w==",
+  "success": true,
+  "projectFilePath": "D:\\Test\\HTMLAgilityPack\\ReadHTMLClassLibrary\\ReadHTMLClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanht\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+﻿@{
+    List<string> listNode = ViewBag.result as List<string>;
+    if (listNode != null && listNode.Count > 0)
+    {
+        foreach (var item in listNode)
+        {
+            <p>@item</p>
+        }
+    }
+}

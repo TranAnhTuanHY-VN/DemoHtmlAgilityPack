@@ -1,0 +1,12 @@
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\bin\Debug\net6.0\ReadHTMLClassLibrary.deps.json
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\bin\Debug\net6.0\ReadHTMLClassLibrary.dll
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\bin\Debug\net6.0\ReadHTMLClassLibrary.pdb
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ReadHTMLClassLibrary.csproj.AssemblyReference.cache
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ReadHTMLClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ReadHTMLClassLibrary.AssemblyInfoInputs.cache
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ReadHTMLClassLibrary.AssemblyInfo.cs
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ReadHTMLClassLibrary.csproj.CoreCompileInputs.cache
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ReadHTMLClassLibrary.dll
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\refint\ReadHTMLClassLibrary.dll
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ReadHTMLClassLibrary.pdb
+D:\Test\HTMLAgilityPack\ReadHTMLClassLibrary\obj\Debug\net6.0\ref\ReadHTMLClassLibrary.dll
